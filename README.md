@@ -8,6 +8,13 @@ ERC721 smart contract template for Starknet blockchain using Cairo language vers
 This is just a test sample. It may pose undiscovered security risks. If you want to use it in your products, you should review it carefully.
 
 # How to Deploy sample NFT
+
+### Requirements
+- Scarb v2.3+ | A buildtool used to compile cairo files (build).
+- Starkli v0.1+ | Command line tool to interact with the Starknet blockchain, helping you deploy smart contracts to the Starknet network
+
+Docs: [Guide to setup Starkli and Scrab](https://docs.starknet.io/documentation/quick_start/environment_setup)
+
 ### Clone the Project
 ```sh
 git clone https://github.com/nvthaovn/Starknet-ERC721-Cairo-1.git
