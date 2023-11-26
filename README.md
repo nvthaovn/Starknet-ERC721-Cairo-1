@@ -3,6 +3,7 @@ ERC721 smart contract template for Starknet blockchain using Cairo language vers
 # Compatibility ✨
 - NFTs market: Element market, Unframed, Pyramid, Flexing...
 - Wallets and explorers: ArgentX, Braavos, Starkscan...
+- Cairo version: Cairo 1
 
 # Disclaimer ✨
 This is just a test sample. It may pose undiscovered security risks. If you want to use it in your products, you should review it carefully.
@@ -10,7 +11,7 @@ This is just a test sample. It may pose undiscovered security risks. If you want
 # How to Deploy sample NFT
 
 ### Requirements
-- Scarb v2.3+ | A buildtool used to compile cairo files (build).
+- Scarb v2.3+ | A buildtool used to compile Cairo files (build).
 - Starkli v0.1+ | Command line tool to interact with the Starknet blockchain, helping you deploy smart contracts to the Starknet network
 
 Docs: [Guide to setup Starkli and Scrab](https://docs.starknet.io/documentation/quick_start/environment_setup)
